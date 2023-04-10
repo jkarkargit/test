@@ -1,0 +1,500 @@
+git status
+git status
+git status
+clear
+git status
+git diff
+git log
+git mv tours/tour_detail_backpack.html tours/tour_detail_backpack_cal.html 
+git status
+ls -la
+clear
+git status
+git add tours.html 
+git add tours/
+git status
+clear
+git status
+git commit -m "Renamed Bacpack Cal file for clarity"
+git commit -am "Removed contractions from contact page text"
+git status
+clear
+git status
+git diff
+clear
+clear git checkout -- index.html
+git status
+git diff
+clear
+git checkou --index.html
+git checkou -- index.html
+git checkout -- index.html
+git status
+git status
+git add resources.html 
+git status
+clear
+git status
+git reset HEAD resources.html
+git status
+git add resources.html 
+git commit -m "Rearrange the items to bring on a trip"
+clear
+git log
+git status
+git add resources.html 
+git status
+clear
+git log
+git amend -m "Rearrange the items to bring on a trip"
+git comit --amend -m "Rearrange the items to bring on a trip"
+git commit --amend -m "Rearrange the items to bring on a trip"
+clear
+git log
+git commit --amend -m "Rearrange the items to bring on an outdoor trip"
+git log
+clear
+git log
+git log --prety=oneline
+git log --pretty=oneline
+cd Desktop/
+ls -la
+cd \#Lynda\ -\ Git\ Essential\ Training__JK/
+ls -la
+cd \#simplegit-progit/
+git log --pretty=oneline
+clear
+git log --pretty=oneline
+git log --pretty=full
+clear
+git log --pretty=fuller
+git log --pretty=format:"%h - %an, %ar : %s"
+git log --pretty=format:"%h - %an, %ar : %s : %cd"
+git log --graph
+clear
+git log --pretty=format:"%h %s" --graph
+git log --pretty=format:"%h %s" --graph
+git log --pretty=format:"%h" --graph
+git log --pretty=format:"%h %S" --graph
+git log --pretty=format:"%h %s" --graph
+git log --pretty=format:"%h - %an, %ar : %s : %cd"
+git log --pretty=format:"%h - %an, %ar : %s : %cd" --graph
+git log --graph
+git remote
+git remote show origin
+git remote show 
+git remote -v
+git remote -v
+git remote rename or
+git remote rename origin o
+git remote -v
+git remote o
+git remote 
+git staus
+git status
+clear
+git log
+git remote remove o
+git remote 
+git status
+git log
+clear
+git tad
+git tag
+git log
+git tag -a v0.1 -m "my version 0.1"
+git tag
+git show
+git show v0.4
+git show v0.1
+clear
+git show
+git show v0.1
+git show v0.1.1
+git show v0.1.1
+git show v0.1.0
+git show
+git tag
+clear
+git show
+git show v0.1.1-lw
+git show v0.1-lw
+git show
+git status
+git diff
+git tag v1.4 -lw
+git tag v1.4-lw
+git tag
+git show
+git show v1.4-lw
+clear
+git log --pretty=oneline
+git tag -a v0.0.0 a11bef06
+git tag
+git show v0.0.0
+clear
+git show v0.0.0
+clear
+git show v0.0.0
+clear
+git  tag
+git tag -d v1.4-lw
+git tag -d v1.4-lw
+git  tag
+git config --global alias.st status
+git st
+git loge --oneline decorate
+git log --oneline decorate
+git log --oneline --decorate
+ git branch testing
+git log --oneline --decorate
+ git checkout  testing
+git log --oneline --decorate
+clear
+git log --oneline --decorate
+ls -al
+git status
+git statusgit st
+git st
+ls ila
+ls -a
+pwd
+ls -la
+git status
+git checkout main
+git status
+git log --oneline --decorate
+git log
+git chickout master
+git log
+git checkout main
+git checkout master
+git log
+git commit -a -m 'new jk.txt'
+git status
+git add
+git add jk.txt 
+git st
+git status
+git log
+gi status
+git st
+git status
+git checkout testing
+git status
+git log
+git status
+git add
+git add jk.txt 
+git commit -m 'save jk.txt to testing'
+git status
+git log
+git checkout master
+git log
+git log --oneline --decorate
+git diff
+git status
+clear
+git checkout testing
+git log
+git checkout master
+git log
+mv jk.txt jk2.txt
+git status
+ls -la
+pwd
+git checkout testing 
+ls -la
+git checkout master
+ls -la
+ls -la
+git status
+git add jk.txt 
+git commit jk.txt -m 'jk to master'
+ls -la
+git checkout testing
+ls -la
+git log --oneline --decorate
+git checkout master
+git log --oneline --decorate
+git log --oneline --decorate --graph --all
+git mv jk.txt jk2.txt
+ls -la
+git rest
+git rest --hard
+git reset --hard
+ls -la
+mv jk.txt jk2.txt
+ls -la
+git status
+git reset --hard
+git status
+ls -la
+git add jk2.txt 
+git status
+ls -la
+git commit -m 'added jk2.txt'
+git log --oneline --decorate --graph --all
+git status
+clear
+git commit jk2.txt -a -m 'first changes to jk2.txt'
+git commit jk2.txt -am 'first changes to jk2.txt'
+git status
+gid commit jk2.txt -a -m'first change to jk2.txt
+'
+gid commit jk2.txt -a -m'first change to jk2.txt'
+git commit jk2.txt -a -m'first change to jk2.txt'
+git commit jk2.txt -m'first change to jk2.txt'
+git status
+git log
+git log --oneline --decorate --graph --all
+cd Desktop/
+cd #lynd
+cd Desktop/
+cd \#Lynda\ -\ Git\ Essential\ Training__JK/
+ls -la
+cd \#git_pdf/
+ls -la
+clear
+git status
+gti commit -am 'furt nut git xoop tutorial'
+git commit -am 'first nutykgit tutorial in  xoop tutorial'
+git add ntu\ -\ How\ to\ get\ started\ with\ GIT\ and\ work\ with\ GIT\ Remote\ Repo.xopp 
+got statis
+git status
+gti commit -m 'initial commit for ntu git tutorial - in xoop format'
+git commit -m 'initial commit for ntu git tutorial - in xoop format'
+git status
+cd ..
+mkdir #hello-git
+mkdir '#hello-git'
+cd \#hello-git/
+git init
+pwd
+clear
+ls -la
+git status
+java --version
+pws
+pwd
+ls -;a
+ls -la
+javac Hello
+javac Hello.java
+ls -ls
+clear
+git status
+ls -la
+cd ..
+cd \#ntu_hello-git/
+git status
+git add README.md 
+git ADD *.JAVA
+gti add *.java
+git add *.java
+git statu
+git stu
+git st
+ls -la
+lear
+clear
+git st
+git commit -m "First commit"
+git status
+git log
+dgit log --stat
+git log --stat
+clear
+git log --oneline
+git status
+gti log
+git log
+git statu
+git status
+clear
+git diff
+gti add *.java
+git add Hello.java 
+git status
+git diff
+git diff --staged
+clear
+git diff
+git diff --staged
+git commit -m "second commit"
+git status
+git diff --staged
+git diff 
+git status
+cler
+clear
+git log
+git log -p -1
+git log -1
+git log -p
+git log -p -1
+clear
+git status
+git add .gitignore 
+git status
+git commit -m "Added .gitignore"
+git status
+git status
+clear
+git status
+git add .gitignore 
+GIT ST
+git st
+git commit -m "Added *.png to .gitignore"
+clear
+git st
+git add 
+git add .
+git status
+git reset --hard
+git status
+gti status
+git status
+get reset
+git status
+git reset
+git status
+git rest --hard
+git reset -hard
+git status
+ls -a
+ls -al
+git status
+git commit -m "saved changes to xoop"
+got add ntu\ -\ How\ to\ get\ started\ with\ GIT\ and\ work\ with\ GIT\ Remote\ Repo.xopp 
+git add ntu\ -\ How\ to\ get\ started\ with\ GIT\ and\ work\ with\ GIT\ Remote\ Repo.xopp 
+git tatus
+git st
+git commit -m "saved changes to xoop"
+git status
+git add .ntu\ -\ How\ to\ get\ started\ with\ GIT\ and\ work\ with\ GIT\ Remote\ Repo.autosave.xopp 
+git commit -m ".ntu ....."
+git status
+ls -al
+clear
+git remote add origin https://github.com/jkarkargit/test.git
+git remote add origin https://github.com/jkarkargit@jkarkagit/test.git
+git --golbal list
+git --global
+git --global list
+git list
+git config list
+git config --list
+git remote -v
+clear
+git push origin master
+git push -u origin master
+git push -u origin master
+git push origin master
+git remote add origin https://github.com/jkarkargit@jkarkagit/test.git
+git remote delete
+git remote remove origing
+git remote add origin https://github.com/jkarkhttps://github.com/jkark^Margit@jkarkagit/test.git
+git push origin master
+git push origin master
+git remote add origin https://github.com/jkarkargit/test.git
+git push origin master
+git congig --lis
+git congig --list
+git config --list
+clear
+git remote add origin https://github.com/jkarkargit/test.git
+git push origin master
+git remot set-url https://github.com/jkarkargit/test.git
+git remote set-url https://github.com/jkarkargit/test.git
+git remote set-url origin https://github.com/jkarkargit/test.git
+git push origin master
+clear
+git status
+git status
+git add Hello.java 
+git status
+git commit -m "Third commit"
+git push origing master
+git push origin master
+clear
+git status
+git add README.md 
+git status
+git st
+git diff --staged
+clear
+git diff --staged
+git diff
+clear
+git diff --staged
+git diff
+clear
+git add README.md 
+git st
+git diff --staged
+clear
+git commit -m "Unstaged vs. Staged Changes"
+git status
+git tog
+git status
+git add .
+git status
+git tag
+git tag -a v1.0.0 -m "First porduction system"
+git tag
+clear
+git log
+git tag -a "v0.09" -m "Last pre-production release" 5515d24
+git tag
+git log
+clear git tag
+git tag
+git show v0.09
+git show v1.0.0
+clear
+git log
+git tag a971ea5 
+git tag 
+git tag release a971ea5
+git tag -d release a971ea5
+git tag 
+git tag 0.0.0 a971ea5 
+git tag 
+git tag show 0.0.0
+git tag show v0.0.9
+git tag show v0.09
+git tag v0.09
+git show v0.09
+git show 0.0.0
+git log
+clear
+git log
+git tag -d release show
+git log
+git show 0.0.0
+git tag
+clear
+git status
+git add ntu\ -\ How\ to\ get\ started\ with\ GIT\ and\ work\ with\ GIT\ Remote\ Repo.xopp 
+git status
+git add .
+git status
+git commit -m "xoop - ntu: 4. git Tags - completed"
+git status
+git diff
+clear
+git status
+git add .
+git status
+gi commit -m "quick commit: Branching - To Be Continued"
+git commit -m "quick commit: Branching - To Be Continued"
+git push
+git oush
+git push
+git origin push
+git push origin
+git push origin master
+history
+hitstory -w history.txt
+history -w history.txt
