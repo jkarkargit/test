@@ -10,5 +10,8 @@
 # Can use regular expression, e.g., [oa] matches either o or a
 *.[oa]
 
+# png files 
+*.png
+
 # temp sub-directory (ended with a directory separator)
 temp/
